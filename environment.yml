@@ -1,0 +1,10 @@
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - scikit-learn
+  - scipy
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
