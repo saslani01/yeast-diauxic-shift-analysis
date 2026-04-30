@@ -10,8 +10,6 @@ This project analyzes the DeRisi dataset to identify genes with significant expr
 - K-means clustering to reveal temporal expression patterns
 - Simulation-based p-value calculations for GO enrichment analysis
 
-For detailed methodology, theoretical background, and comprehensive analysis, see the [full report](report.pdf).
-
 ## Requirements
 
 - Python 3.12
